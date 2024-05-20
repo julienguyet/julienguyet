@@ -9,10 +9,7 @@ I am a Computer Science student:
 - :robot: Specialized in AI and Machine Learning
 - :dna: Passionate about analytics and how to turn data into meaningful insights
 - :potted_plant: In my free time, I read tech articles and do sports
-- :calling: How to reach me: <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/julien-guyet-8b04b9118/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+- :calling: How to reach me: <div id="badges"> <a href="[your-linkedin-URL](https://www.linkedin.com/in/julien-guyet-8b04b9118/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 <!--
 **julienguyet/julienguyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
