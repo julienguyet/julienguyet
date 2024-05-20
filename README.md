@@ -10,7 +10,7 @@ I am a Computer Science student:
 - :dna: Passionate about analytics and how to turn data into meaningful insights
 - :potted_plant: In my free time, I read tech articles and do sports
 - :calling: How to reach me: <div id="badges">
-    <a href="[https://www.linkedin.com/in/julien-guyet-8b04b9118/]"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/julien-guyet-8b04b9118/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
 <!--
