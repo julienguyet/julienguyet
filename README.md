@@ -16,7 +16,7 @@ I am a Computer Science student:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -32,7 +32,15 @@ I am a Computer Science student:
 
 ---
 
-### :fire: My Stats :
+### :zap: My Projects
+Some of the key projects I worked on:
+- [Data Science in Production](https://github.com/julienguyet/dsp-project-JPS): Airflow, FastAPI and Docker for Data Quality Check and Prediction calls.
+- [AI Methodology](https://github.com/julienguyet/ai-project-methodology): A Churn Prediction model leveraging MLFlow and Shap for Explanaible AI.
+- [Azure ML](https://github.com/julienguyet/azure-ml): A tutorial on how to deploy an ML model on Azure.
+
+---
+
+### :fire: My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=julienguyet)](https://git.io/streak-stats)
 
