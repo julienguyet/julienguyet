@@ -25,6 +25,8 @@ I am a Computer Science student:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
+  <img src=https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="spark" alt="spark" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
