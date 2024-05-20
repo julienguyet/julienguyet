@@ -13,6 +13,8 @@ I am a Computer Science student:
   <div id="badges">
     <a href="https://www.linkedin.com/in/julien-guyet-8b04b9118/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="guyet.julien@outlook.com"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 
 <!--
 **julienguyet/julienguyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
