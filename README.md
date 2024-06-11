@@ -34,6 +34,7 @@ I am a Computer Science student:
 
 ### :zap: My Projects
 Some of the key projects I worked on:
+- [PEFT Fine-tuning](https://github.com/julienguyet/peft_fine_tuning): How to fine-tune an LLM to perform text summarization.
 - [Data Science in Production](https://github.com/julienguyet/dsp-project-JPS): Airflow, FastAPI and Docker for Data Quality Check and Prediction calls.
 - [Spark Cluster on GCP](https://github.com/julienguyet/spark-gcp): how to deploy a spark cluster on Google Cloud to run jobs and ML predictions.
 - [AI Methodology](https://github.com/julienguyet/ai-project-methodology): A Churn Prediction model leveraging MLFlow and Shap for Explanaible AI.
