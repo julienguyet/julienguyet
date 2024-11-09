@@ -5,7 +5,7 @@
 ---
 
 ### :man_technologist: About Me
-I am a Computer Science student:
+I am a Data Scientist:
 - :robot: Specialized in AI and Machine Learning
 - :dna: Passionate about analytics and how to turn data into meaningful insights
 - :potted_plant: In my free time, I read tech articles and do sports
