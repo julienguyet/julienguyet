@@ -35,7 +35,8 @@ I am a Data Scientist:
 ### :zap: My Projects
 Some of the key projects I worked on:
 - [ANIMA](https://github.com/julienguyet/ANIMA): an AI assistant to help with medical queries or images and enhance decision-making in healthcare. 
-- [Empowering Healthcare](https://github.com/julienguyet/LLAVA_CV): fine-tuned LLaVA on medical image-question pairs to enhance decision making in the medical industry. 
+- [Empowering Healthcare](https://github.com/julienguyet/LLAVA_CV): fine-tuned LLaVA on medical image-question pairs to enhance decision making in the medical industry.
+- [Anomaly Detection](https://github.com/julienguyet/water_quality): Designed and implemented a deep learning model leveraging LSTM architecture to identify anomalies in tap water measurements.
 - [PEFT Fine-tuning](https://github.com/julienguyet/peft_fine_tuning): How to fine-tune an LLM to perform text summarization.
 - [Bart Whispson](https://github.com/julienguyet/bart_whispson): an AI assistant to summmarize your audio files.
 - [Data Science in Production](https://github.com/julienguyet/dsp-project-JPS): Airflow, FastAPI and Docker for Data Quality Check and Prediction calls.
